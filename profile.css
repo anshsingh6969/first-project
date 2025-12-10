@@ -1,0 +1,48 @@
+body{
+            margin: 20px;
+          
+            background-color: #f9f9f9;
+        }
+        .box{
+             padding: 16px;
+             border: 2px solid black;
+            border-radius: 8px;
+            align-items: center;
+            display: flex;
+            justify-content: center;
+            gap: 20px;
+            height: 300px;
+            flex-wrap: wrap;
+            box-sizing: border-box;
+             box-shadow: 0 4px 6px rgba(0,0,0,1);
+        }
+        .card{
+            background-color: #fff;
+            box-shadow: 0 4px 6px rgba(0,0,0,1);
+            width: 220px;
+            text-align: center;
+            padding: 16px;
+            border-radius: 8px;
+
+        }
+        .photu{
+             color: #f9f9f9;
+          width: 70px ;
+          height: 70px;
+          border-radius: 100%;
+          background-color: blue;
+          display: flex;
+          justify-content: center;
+          align-items: center;
+          margin: 0 auto 12px;
+           font-weight: bold;
+           font-size: 18px;
+        }
+        .naam{
+           
+            font-weight: bold;
+            font-size: 20px;
+        }
+        .detail{
+            color: #555;
+        }
